@@ -1,1 +1,1 @@
-# scripting_assignment
+This repo contains the linux scripting assigments.
